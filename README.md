@@ -1,4 +1,4 @@
-# systemd-service
+# howto-systemd-service
 
 *Create an example Linux systemd-based service (daemon)*
 
